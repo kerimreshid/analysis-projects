@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" role="img" aria-labelledby="title description">
+<title id="title">Sales performance</title>
+<desc id="description">Twelve-month commercial overview  |  deterministic synthetic transactions</desc>
+<rect width="100%" height="100%" fill="#f3f6fa"/>
+<text x="48.0" y="62.0" font-size="28" fill="#12233f" font-weight="750" text-anchor="start">Sales performance</text>
+<text x="48.0" y="91.0" font-size="13" fill="#526174" font-weight="400" text-anchor="start">Twelve-month commercial overview  |  deterministic synthetic transactions</text>
+<rect x="48.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="66.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">GROSS REVENUE</text>
+<text x="66.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">$303,456</text>
+<text x="66.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">12-month total</text>
+<rect x="388.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="406.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">ORDERS</text>
+<text x="406.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">1,840</text>
+<text x="406.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">illustrative order volume</text>
+<rect x="728.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="746.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">AVERAGE ORDER</text>
+<text x="746.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">$164.92</text>
+<text x="746.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">revenue per order</text>
+<rect x="1068.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="1086.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">REVENUE GROWTH</text>
+<text x="1086.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">100.0%</text>
+<text x="1086.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">first to final month</text>
+<rect x="48" y="246" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="72.0" y="282.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Monthly revenue</text>
+<line x1="102" y1="312.0" x2="684" y2="312.0" stroke="#edf1f5"/>
+<text x="93.0" y="316.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">36k</text>
+<line x1="102" y1="363.8" x2="684" y2="363.8" stroke="#edf1f5"/>
+<text x="93.0" y="367.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">31k</text>
+<line x1="102" y1="415.5" x2="684" y2="415.5" stroke="#edf1f5"/>
+<text x="93.0" y="419.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">25k</text>
+<line x1="102" y1="467.2" x2="684" y2="467.2" stroke="#edf1f5"/>
+<text x="93.0" y="471.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">20k</text>
+<line x1="102" y1="519.0" x2="684" y2="519.0" stroke="#edf1f5"/>
+<text x="93.0" y="523.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">15k</text>
+<polyline points="102.0,499.0 154.9,475.4 207.8,422.4 260.7,390.5 313.6,472.9 366.5,450.6 419.5,386.7 472.4,354.0 525.3,452.4 578.2,397.7 631.1,373.8 684.0,332.0" fill="none" stroke="#2563eb" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="592" cy="301" r="4" fill="#2563eb"/>
+<text x="602.0" y="305.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">Revenue</text>
+<text x="102.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">2025-01</text>
+<text x="419.5" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">2025-07</text>
+<text x="684.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">2025-12</text>
+<rect x="732" y="246" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="756.0" y="282.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Revenue by category</text>
+<line x1="786" y1="312.0" x2="1368" y2="312.0" stroke="#edf1f5"/>
+<text x="777.0" y="316.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">122k</text>
+<line x1="786" y1="363.8" x2="1368" y2="363.8" stroke="#edf1f5"/>
+<text x="777.0" y="367.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">92k</text>
+<line x1="786" y1="415.5" x2="1368" y2="415.5" stroke="#edf1f5"/>
+<text x="777.0" y="419.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">61k</text>
+<line x1="786" y1="467.2" x2="1368" y2="467.2" stroke="#edf1f5"/>
+<text x="777.0" y="471.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">31k</text>
+<line x1="786" y1="519.0" x2="1368" y2="519.0" stroke="#edf1f5"/>
+<text x="777.0" y="523.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">0</text>
+<rect x="836.8" y="334.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="858.8" y="351.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">109k</text>
+<rect x="982.2" y="380.4" width="44.0" height="138.6" rx="4" fill="#2563eb"/>
+<text x="1004.2" y="397.4" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">82k</text>
+<rect x="1127.8" y="411.2" width="44.0" height="107.8" rx="4" fill="#2563eb"/>
+<text x="1149.8" y="428.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">64k</text>
+<rect x="1273.2" y="436.9" width="44.0" height="82.1" rx="4" fill="#2563eb"/>
+<text x="1295.2" y="453.9" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">49k</text>
+<text x="786.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Technology</text>
+<text x="1174.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Outdoor</text>
+<text x="1368.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Accessories</text>
+<rect x="48" y="579" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="72.0" y="615.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Revenue by region</text>
+<line x1="102" y1="645.0" x2="684" y2="645.0" stroke="#edf1f5"/>
+<text x="93.0" y="649.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">105k</text>
+<line x1="102" y1="696.8" x2="684" y2="696.8" stroke="#edf1f5"/>
+<text x="93.0" y="700.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">79k</text>
+<line x1="102" y1="748.5" x2="684" y2="748.5" stroke="#edf1f5"/>
+<text x="93.0" y="752.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">53k</text>
+<line x1="102" y1="800.2" x2="684" y2="800.2" stroke="#edf1f5"/>
+<text x="93.0" y="804.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">26k</text>
+<line x1="102" y1="852.0" x2="684" y2="852.0" stroke="#edf1f5"/>
+<text x="93.0" y="856.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">0</text>
+<rect x="152.8" y="667.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="174.8" y="684.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">94k</text>
+<rect x="298.2" y="703.0" width="44.0" height="149.0" rx="4" fill="#2563eb"/>
+<text x="320.2" y="720.0" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">76k</text>
+<rect x="443.8" y="708.9" width="44.0" height="143.1" rx="4" fill="#2563eb"/>
+<text x="465.8" y="725.9" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">73k</text>
+<rect x="589.2" y="732.8" width="44.0" height="119.2" rx="4" fill="#2563eb"/>
+<text x="611.2" y="749.8" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">61k</text>
+<text x="102.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">North</text>
+<text x="490.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">East</text>
+<text x="684.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">West</text>
+<rect x="732" y="579" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="756.0" y="615.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Quarterly revenue</text>
+<line x1="786" y1="645.0" x2="1368" y2="645.0" stroke="#edf1f5"/>
+<text x="777.0" y="649.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">102k</text>
+<line x1="786" y1="696.8" x2="1368" y2="696.8" stroke="#edf1f5"/>
+<text x="777.0" y="700.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">76k</text>
+<line x1="786" y1="748.5" x2="1368" y2="748.5" stroke="#edf1f5"/>
+<text x="777.0" y="752.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">51k</text>
+<line x1="786" y1="800.2" x2="1368" y2="800.2" stroke="#edf1f5"/>
+<text x="777.0" y="804.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">25k</text>
+<line x1="786" y1="852.0" x2="1368" y2="852.0" stroke="#edf1f5"/>
+<text x="777.0" y="856.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">0</text>
+<rect x="836.8" y="727.8" width="44.0" height="124.2" rx="4" fill="#2563eb"/>
+<text x="858.8" y="744.8" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">61k</text>
+<rect x="982.2" y="710.7" width="44.0" height="141.3" rx="4" fill="#2563eb"/>
+<text x="1004.2" y="727.7" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">70k</text>
+<rect x="1127.8" y="685.7" width="44.0" height="166.3" rx="4" fill="#2563eb"/>
+<text x="1149.8" y="702.7" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">82k</text>
+<rect x="1273.2" y="667.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="1295.2" y="684.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">91k</text>
+<text x="786.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Q1</text>
+<text x="1174.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Q3</text>
+<text x="1368.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Q4</text>
+<text x="48.0" y="928.0" font-size="11" fill="#64748b" font-weight="400" text-anchor="start">DEMO DATA  •  Illustrative analysis only; not operational, financial, clinical, or personnel advice.</text>
+<text x="1392.0" y="928.0" font-size="10" fill="#64748b" font-weight="400" text-anchor="end">ANALYSIS PORTFOLIO  /  PYTHON</text>
+</svg>
