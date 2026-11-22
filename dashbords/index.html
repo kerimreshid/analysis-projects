@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Ten rendered dashboards from a professional, reproducible set of analytics projects.">
+  <title>Analytics Projects — Dashboard Gallery</title>
+  <style>
+    :root { color-scheme: light; --ink: #12233f; --muted: #64748b; --line: #e2e8f0; --blue: #2563eb; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #f3f6fa; color: var(--ink); font: 16px/1.5 system-ui, sans-serif; }
+    header { padding: 48px max(24px, calc((100vw - 1200px) / 2)); background: #10233f; color: white; }
+    header p { margin: 8px 0 0; color: #c5d3e6; }
+    h1 { margin: 0; font-size: clamp(2rem, 5vw, 3rem); letter-spacing: -.04em; }
+    main { max-width: 1248px; margin: 32px auto; padding: 0 24px 48px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 520px), 1fr)); gap: 20px; }
+    article { overflow: hidden; border: 1px solid var(--line); border-radius: 16px; background: white; box-shadow: 0 5px 20px #142b4710; }
+    article h2 { margin: 0; padding: 18px 20px 10px; font-size: 1.1rem; }
+    article img { display: block; width: 100%; height: auto; }
+    .note { margin: 22px 0 0; color: var(--muted); font-size: .9rem; }
+    a { color: inherit; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Analytics projects</h1>
+    <p>Ten focused data projects · Python analysis · rendered dashboards</p>
+  </header>
+  <main>
+    <section class="grid" aria-label="Project dashboards">
+      <article><h2>01 · Sales performance</h2><a href="visualizations/day_01_sales_dashboard.svg"><img src="visualizations/day_01_sales_dashboard.svg" alt="Sales performance dashboard"></a></article>
+      <article><h2>02 · Customer segments</h2><a href="visualizations/day_02_customer_segmentation_dashboard.svg"><img src="visualizations/day_02_customer_segmentation_dashboard.svg" alt="Customer segments dashboard"></a></article>
+      <article><h2>03 · Market trend review</h2><a href="visualizations/day_03_stock_dashboard.svg"><img src="visualizations/day_03_stock_dashboard.svg" alt="Market trend dashboard"></a></article>
+      <article><h2>04 · Customer voice</h2><a href="visualizations/day_04_sentiment_dashboard.svg"><img src="visualizations/day_04_sentiment_dashboard.svg" alt="Customer sentiment dashboard"></a></article>
+      <article><h2>05 · Digital experience</h2><a href="visualizations/day_05_traffic_dashboard.svg"><img src="visualizations/day_05_traffic_dashboard.svg" alt="Website traffic dashboard"></a></article>
+      <article><h2>06 · Product discovery</h2><a href="visualizations/day_06_recommendations_dashboard.svg"><img src="visualizations/day_06_recommendations_dashboard.svg" alt="Product recommendations dashboard"></a></article>
+      <article><h2>07 · Transaction risk</h2><a href="visualizations/day_07_fraud_dashboard.svg"><img src="visualizations/day_07_fraud_dashboard.svg" alt="Transaction risk dashboard"></a></article>
+      <article><h2>08 · Workforce experience</h2><a href="visualizations/day_08_employee_dashboard.svg"><img src="visualizations/day_08_employee_dashboard.svg" alt="Workforce experience dashboard"></a></article>
+      <article><h2>09 · Admission patterns</h2><a href="visualizations/day_09_healthcare_dashboard.svg"><img src="visualizations/day_09_healthcare_dashboard.svg" alt="Healthcare admissions dashboard"></a></article>
+      <article><h2>10 · Forecast backtest</h2><a href="visualizations/day_10_forecast_dashboard.svg"><img src="visualizations/day_10_forecast_dashboard.svg" alt="Forecast backtest dashboard"></a></article>
+    </section>
+    <p class="note">All data is deterministic and synthetic for demonstration. See <a href="../daily_projects/README.md">the project guide</a> for code and run instructions.</p>
+  </main>
+</body>
+</html>
