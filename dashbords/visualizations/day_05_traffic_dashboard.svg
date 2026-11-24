@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" role="img" aria-labelledby="title description">
+<title id="title">Digital experience</title>
+<desc id="description">Thirty-day website session overview  |  all sessions and conversion events are synthetic</desc>
+<rect width="100%" height="100%" fill="#f3f6fa"/>
+<text x="48.0" y="62.0" font-size="28" fill="#12233f" font-weight="750" text-anchor="start">Digital experience</text>
+<text x="48.0" y="91.0" font-size="13" fill="#526174" font-weight="400" text-anchor="start">Thirty-day website session overview  |  all sessions and conversion events are synthetic</text>
+<rect x="48.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="66.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">SESSIONS</text>
+<text x="66.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">1,800</text>
+<text x="66.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">30-day sample</text>
+<rect x="388.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="406.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">CONVERSIONS</text>
+<text x="406.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">97</text>
+<text x="406.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">illustrative events</text>
+<rect x="728.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="746.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">CONVERSION RATE</text>
+<text x="746.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">5.4%</text>
+<text x="746.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">sample-wide</text>
+<rect x="1068.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="1086.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">AVG. SESSION</text>
+<text x="1086.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">402s</text>
+<text x="1086.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">time on site</text>
+<rect x="48" y="246" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="72.0" y="282.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Daily sessions</text>
+<line x1="102" y1="312.0" x2="684" y2="312.0" stroke="#edf1f5"/>
+<text x="93.0" y="316.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">95.1</text>
+<line x1="102" y1="363.8" x2="684" y2="363.8" stroke="#edf1f5"/>
+<text x="93.0" y="367.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">79.3</text>
+<line x1="102" y1="415.5" x2="684" y2="415.5" stroke="#edf1f5"/>
+<text x="93.0" y="419.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">63.5</text>
+<line x1="102" y1="467.2" x2="684" y2="467.2" stroke="#edf1f5"/>
+<text x="93.0" y="471.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">47.7</text>
+<line x1="102" y1="519.0" x2="684" y2="519.0" stroke="#edf1f5"/>
+<text x="93.0" y="523.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">31.9</text>
+<polyline points="102.0,469.5 122.1,368.0 142.1,364.8 162.2,364.8 182.3,482.6 202.3,469.5 222.4,469.5 242.5,469.5 262.6,417.1 282.6,394.2 302.7,348.4 322.8,495.7 342.8,449.9 362.9,485.9 383.0,463.0 403.0,332.0 423.1,377.9 443.2,400.8 463.2,433.5 483.3,499.0 503.4,440.0 523.4,485.9 543.5,413.9 563.6,404.0 583.7,345.1 603.7,479.3 623.8,407.3 643.9,469.5 663.9,463.0 684.0,345.1" fill="none" stroke="#2563eb" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="592" cy="301" r="4" fill="#2563eb"/>
+<text x="602.0" y="305.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">Sessions</text>
+<text x="102.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">1</text>
+<text x="403.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">16</text>
+<text x="684.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">30</text>
+<rect x="732" y="246" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="756.0" y="282.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Sessions by acquisition source</text>
+<line x1="786" y1="312.0" x2="1368" y2="312.0" stroke="#edf1f5"/>
+<text x="777.0" y="316.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">869.1</text>
+<line x1="786" y1="363.8" x2="1368" y2="363.8" stroke="#edf1f5"/>
+<text x="777.0" y="367.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">651.8</text>
+<line x1="786" y1="415.5" x2="1368" y2="415.5" stroke="#edf1f5"/>
+<text x="777.0" y="419.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">434.6</text>
+<line x1="786" y1="467.2" x2="1368" y2="467.2" stroke="#edf1f5"/>
+<text x="777.0" y="471.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">217.3</text>
+<line x1="786" y1="519.0" x2="1368" y2="519.0" stroke="#edf1f5"/>
+<text x="777.0" y="523.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">0</text>
+<rect x="836.8" y="334.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="858.8" y="351.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">776</text>
+<rect x="982.2" y="404.2" width="44.0" height="114.8" rx="4" fill="#2563eb"/>
+<text x="1004.2" y="421.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">482</text>
+<rect x="1127.8" y="442.8" width="44.0" height="76.2" rx="4" fill="#2563eb"/>
+<text x="1149.8" y="459.8" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">320</text>
+<rect x="1273.2" y="466.1" width="44.0" height="52.9" rx="4" fill="#2563eb"/>
+<text x="1295.2" y="483.1" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">222</text>
+<text x="786.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Search</text>
+<text x="1174.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Social</text>
+<text x="1368.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Email</text>
+<rect x="48" y="579" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="72.0" y="615.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Conversion rate by source (%)</text>
+<line x1="102" y1="645.0" x2="684" y2="645.0" stroke="#edf1f5"/>
+<text x="93.0" y="649.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">11.1</text>
+<line x1="102" y1="696.8" x2="684" y2="696.8" stroke="#edf1f5"/>
+<text x="93.0" y="700.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">8.3</text>
+<line x1="102" y1="748.5" x2="684" y2="748.5" stroke="#edf1f5"/>
+<text x="93.0" y="752.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">5.5</text>
+<line x1="102" y1="800.2" x2="684" y2="800.2" stroke="#edf1f5"/>
+<text x="93.0" y="804.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">2.8</text>
+<line x1="102" y1="852.0" x2="684" y2="852.0" stroke="#edf1f5"/>
+<text x="93.0" y="856.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">0</text>
+<rect x="152.8" y="763.1" width="44.0" height="88.9" rx="4" fill="#2563eb"/>
+<text x="174.8" y="780.1" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">4.8</text>
+<rect x="298.2" y="747.5" width="44.0" height="104.5" rx="4" fill="#2563eb"/>
+<text x="320.2" y="764.5" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">5.6</text>
+<rect x="443.8" y="787.9" width="44.0" height="64.1" rx="4" fill="#2563eb"/>
+<text x="465.8" y="804.9" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">3.4</text>
+<rect x="589.2" y="667.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="611.2" y="684.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">9.9</text>
+<text x="102.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Search</text>
+<text x="490.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Social</text>
+<text x="684.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Email</text>
+<rect x="732" y="579" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="756.0" y="615.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Landing page views</text>
+<line x1="786" y1="645.0" x2="1368" y2="645.0" stroke="#edf1f5"/>
+<text x="777.0" y="649.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">524.2</text>
+<line x1="786" y1="696.8" x2="1368" y2="696.8" stroke="#edf1f5"/>
+<text x="777.0" y="700.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">393.1</text>
+<line x1="786" y1="748.5" x2="1368" y2="748.5" stroke="#edf1f5"/>
+<text x="777.0" y="752.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">262.1</text>
+<line x1="786" y1="800.2" x2="1368" y2="800.2" stroke="#edf1f5"/>
+<text x="777.0" y="804.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">131.0</text>
+<line x1="786" y1="852.0" x2="1368" y2="852.0" stroke="#edf1f5"/>
+<text x="777.0" y="856.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">0</text>
+<rect x="836.8" y="675.9" width="44.0" height="176.1" rx="4" fill="#2563eb"/>
+<text x="858.8" y="692.9" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">446</text>
+<rect x="982.2" y="674.3" width="44.0" height="177.7" rx="4" fill="#2563eb"/>
+<text x="1004.2" y="691.3" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">450</text>
+<rect x="1127.8" y="679.8" width="44.0" height="172.2" rx="4" fill="#2563eb"/>
+<text x="1149.8" y="696.8" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">436</text>
+<rect x="1273.2" y="667.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="1295.2" y="684.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">468</text>
+<text x="786.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">/home</text>
+<text x="1174.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">/products</text>
+<text x="1368.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">/help</text>
+<text x="48.0" y="928.0" font-size="11" fill="#64748b" font-weight="400" text-anchor="start">DEMO DATA  •  Illustrative analysis only; not operational, financial, clinical, or personnel advice.</text>
+<text x="1392.0" y="928.0" font-size="10" fill="#64748b" font-weight="400" text-anchor="end">ANALYTICS PROJECTS  /  PYTHON</text>
+</svg>
