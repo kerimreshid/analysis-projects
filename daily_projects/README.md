@@ -1,6 +1,6 @@
-# Daily Analysis Portfolio
+# Daily Analytics Projects
 
-A 10-project analytics portfolio. Each Python script creates a small, reproducible
+A 10-project analytics collection. Each Python script creates a small, reproducible
 synthetic dataset and a **rendered SVG dashboard**. The dashboards are pictures,
 not notebook code; all project and chart-generation code lives here in
 `daily_projects/`.
@@ -8,7 +8,7 @@ not notebook code; all project and chart-generation code lives here in
 ## View the dashboards
 
 Open [`../dashbords/index.html`](../dashbords/index.html) in a browser to browse
-the portfolio, or open an individual SVG from
+the project collection, or open an individual SVG from
 [`../dashbords/visualizations/`](../dashbords/visualizations/).
 
 ## Run a project
@@ -35,7 +35,7 @@ demonstration and practice, not for operational decisions.
 
 ## Shared data tables
 
-The portfolio keeps its outputs in three CSV files:
+The collection keeps its outputs in three CSV files:
 
 | File | Included projects |
 |---|---|
