@@ -70,3 +70,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Insight:
+#  This code snippet is a Python script that simulates a product recommendation system based on user ratings. It generates synthetic data for 180 users and 10 products across 5 categories, calculates average ratings and coverage for each product, and produces a dashboard with key performance indicators (KPIs) and visualizations. The recommendations for a sample user are ranked by average rating and coverage, demonstrating a popularity-based recommendation approach.
