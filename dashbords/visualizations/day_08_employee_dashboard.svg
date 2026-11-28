@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" role="img" aria-labelledby="title description">
+<title id="title">Workforce experience</title>
+<desc id="description">Fictional, aggregated indicators  |  not a hiring, promotion, or performance decision tool</desc>
+<rect width="100%" height="100%" fill="#f3f6fa"/>
+<text x="48.0" y="62.0" font-size="28" fill="#12233f" font-weight="750" text-anchor="start">Workforce experience</text>
+<text x="48.0" y="91.0" font-size="13" fill="#526174" font-weight="400" text-anchor="start">Fictional, aggregated indicators  |  not a hiring, promotion, or performance decision tool</text>
+<rect x="48.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="66.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">EMPLOYEES</text>
+<text x="66.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">240</text>
+<text x="66.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">synthetic records</text>
+<rect x="388.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="406.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">AVG. GOAL ATTAINMENT</text>
+<text x="406.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">96.7%</text>
+<text x="406.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">illustrative</text>
+<rect x="728.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="746.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">AVG. PULSE SCORE</text>
+<text x="746.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">3.27/5</text>
+<text x="746.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">self-reported demo</text>
+<rect x="1068.0" y="118" width="324.0" height="102" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="1086.0" y="145.0" font-size="11" fill="#526174" font-weight="600" text-anchor="start">DEPARTMENTS</text>
+<text x="1086.0" y="180.0" font-size="25" fill="#172b4d" font-weight="750" text-anchor="start">4</text>
+<text x="1086.0" y="202.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">represented</text>
+<rect x="48" y="246" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="72.0" y="282.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Average goal attainment (%)</text>
+<line x1="102" y1="312.0" x2="684" y2="312.0" stroke="#edf1f5"/>
+<text x="93.0" y="316.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">115.1</text>
+<line x1="102" y1="363.8" x2="684" y2="363.8" stroke="#edf1f5"/>
+<text x="93.0" y="367.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">86.3</text>
+<line x1="102" y1="415.5" x2="684" y2="415.5" stroke="#edf1f5"/>
+<text x="93.0" y="419.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">57.5</text>
+<line x1="102" y1="467.2" x2="684" y2="467.2" stroke="#edf1f5"/>
+<text x="93.0" y="471.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">28.8</text>
+<line x1="102" y1="519.0" x2="684" y2="519.0" stroke="#edf1f5"/>
+<text x="93.0" y="523.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">0</text>
+<rect x="152.8" y="345.0" width="44.0" height="174.0" rx="4" fill="#2563eb"/>
+<text x="174.8" y="362.0" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">96.7</text>
+<rect x="298.2" y="334.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="320.2" y="351.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">102.7</text>
+<rect x="443.8" y="344.5" width="44.0" height="174.5" rx="4" fill="#2563eb"/>
+<text x="465.8" y="361.5" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">97.0</text>
+<rect x="589.2" y="356.3" width="44.0" height="162.7" rx="4" fill="#2563eb"/>
+<text x="611.2" y="373.3" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">90.4</text>
+<text x="102.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Product</text>
+<text x="490.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Operations</text>
+<text x="684.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Support</text>
+<rect x="732" y="246" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="756.0" y="282.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Average pulse score</text>
+<line x1="786" y1="312.0" x2="1368" y2="312.0" stroke="#edf1f5"/>
+<text x="777.0" y="316.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">3.8</text>
+<line x1="786" y1="363.8" x2="1368" y2="363.8" stroke="#edf1f5"/>
+<text x="777.0" y="367.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">2.9</text>
+<line x1="786" y1="415.5" x2="1368" y2="415.5" stroke="#edf1f5"/>
+<text x="777.0" y="419.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">1.9</text>
+<line x1="786" y1="467.2" x2="1368" y2="467.2" stroke="#edf1f5"/>
+<text x="777.0" y="471.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">95.5%</text>
+<line x1="786" y1="519.0" x2="1368" y2="519.0" stroke="#edf1f5"/>
+<text x="777.0" y="523.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">0</text>
+<rect x="836.8" y="334.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="858.8" y="351.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">3.4</text>
+<rect x="982.2" y="344.0" width="44.0" height="175.0" rx="4" fill="#2563eb"/>
+<text x="1004.2" y="361.0" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">3.2</text>
+<rect x="1127.8" y="341.7" width="44.0" height="177.3" rx="4" fill="#2563eb"/>
+<text x="1149.8" y="358.7" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">3.3</text>
+<rect x="1273.2" y="346.5" width="44.0" height="172.5" rx="4" fill="#2563eb"/>
+<text x="1295.2" y="363.5" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">3.2</text>
+<text x="786.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Product</text>
+<text x="1174.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Operations</text>
+<text x="1368.0" y="542.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Support</text>
+<rect x="48" y="579" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="72.0" y="615.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Satisfaction and goal attainment</text>
+<text x="102.0" y="635.0" font-size="10" fill="#526174" font-weight="400" text-anchor="start">Pulse score (1–5)</text>
+<text x="684.0" y="879.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">Goal attainment (%)</text>
+<line x1="102" y1="645.0" x2="684" y2="645.0" stroke="#edf1f5"/>
+<line x1="102" y1="696.8" x2="684" y2="696.8" stroke="#edf1f5"/>
+<line x1="102" y1="748.5" x2="684" y2="748.5" stroke="#edf1f5"/>
+<line x1="102" y1="800.2" x2="684" y2="800.2" stroke="#edf1f5"/>
+<line x1="102" y1="852.0" x2="684" y2="852.0" stroke="#edf1f5"/>
+<circle cx="509.4" cy="767.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="305.7" cy="812.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="567.6" cy="731.0" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="349.4" cy="748.0" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="276.6" cy="725.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="363.9" cy="763.2" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="291.1" cy="807.3" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="276.6" cy="766.6" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="363.9" cy="852.0" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="334.8" cy="745.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="480.3" cy="672.1" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="203.8" cy="725.2" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="480.3" cy="683.0" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="465.8" cy="735.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="582.1" cy="725.2" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="422.1" cy="730.1" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="349.4" cy="757.2" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="451.2" cy="757.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="393.0" cy="704.6" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="393.0" cy="734.7" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="407.6" cy="750.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="465.8" cy="798.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="451.2" cy="708.8" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="407.6" cy="719.2" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="422.1" cy="724.3" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="465.8" cy="743.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="436.6" cy="733.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="305.7" cy="739.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="451.2" cy="680.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="276.6" cy="753.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="524.0" cy="767.8" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="349.4" cy="719.2" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="494.9" cy="722.8" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="538.5" cy="745.6" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="611.2" cy="746.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="465.8" cy="697.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="567.6" cy="712.2" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="349.4" cy="708.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="465.8" cy="745.6" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="465.8" cy="730.4" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="436.6" cy="797.3" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="567.6" cy="697.0" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="116.6" cy="710.4" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="363.9" cy="727.7" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="349.4" cy="686.3" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="451.2" cy="754.4" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="480.3" cy="743.8" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="334.8" cy="651.4" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="684.0" cy="695.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="480.3" cy="765.4" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="509.4" cy="689.7" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="378.4" cy="649.0" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="596.7" cy="695.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="422.1" cy="720.4" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="422.1" cy="730.4" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="334.8" cy="724.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="480.3" cy="722.2" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="465.8" cy="765.4" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="291.1" cy="797.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="524.0" cy="682.1" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="436.6" cy="742.6" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="582.1" cy="709.1" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="451.2" cy="677.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="407.6" cy="711.0" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="465.8" cy="721.0" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="494.9" cy="834.1" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="378.4" cy="707.6" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="524.0" cy="705.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="305.7" cy="747.7" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="596.7" cy="725.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="334.8" cy="736.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="494.9" cy="735.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="407.6" cy="723.4" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="451.2" cy="707.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="320.2" cy="763.5" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="654.9" cy="645.0" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="451.2" cy="675.1" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="378.4" cy="708.8" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="102.0" cy="770.8" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<circle cx="378.4" cy="738.9" r="3.3" fill="#2563eb" fill-opacity=".52"/>
+<rect x="732" y="579" width="660" height="315" rx="14" fill="#ffffff" stroke="#e4eaf1"/>
+<text x="756.0" y="615.0" font-size="16" fill="#172b4d" font-weight="700" text-anchor="start">Employee records by department</text>
+<line x1="786" y1="645.0" x2="1368" y2="645.0" stroke="#edf1f5"/>
+<text x="777.0" y="649.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">67.2</text>
+<line x1="786" y1="696.8" x2="1368" y2="696.8" stroke="#edf1f5"/>
+<text x="777.0" y="700.8" font-size="10" fill="#526174" font-weight="400" text-anchor="end">50.4</text>
+<line x1="786" y1="748.5" x2="1368" y2="748.5" stroke="#edf1f5"/>
+<text x="777.0" y="752.5" font-size="10" fill="#526174" font-weight="400" text-anchor="end">33.6</text>
+<line x1="786" y1="800.2" x2="1368" y2="800.2" stroke="#edf1f5"/>
+<text x="777.0" y="804.2" font-size="10" fill="#526174" font-weight="400" text-anchor="end">16.8</text>
+<line x1="786" y1="852.0" x2="1368" y2="852.0" stroke="#edf1f5"/>
+<text x="777.0" y="856.0" font-size="10" fill="#526174" font-weight="400" text-anchor="end">0</text>
+<rect x="836.8" y="667.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="858.8" y="684.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">60</text>
+<rect x="982.2" y="667.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="1004.2" y="684.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">60</text>
+<rect x="1127.8" y="667.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="1149.8" y="684.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">60</text>
+<rect x="1273.2" y="667.2" width="44.0" height="184.8" rx="4" fill="#2563eb"/>
+<text x="1295.2" y="684.2" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">60</text>
+<text x="786.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Product</text>
+<text x="1174.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Operations</text>
+<text x="1368.0" y="875.0" font-size="10" fill="#526174" font-weight="400" text-anchor="middle">Support</text>
+<text x="48.0" y="928.0" font-size="11" fill="#64748b" font-weight="400" text-anchor="start">DEMO DATA  •  Illustrative analysis only; not operational, financial, clinical, or personnel advice.</text>
+<text x="1392.0" y="928.0" font-size="10" fill="#64748b" font-weight="400" text-anchor="end">ANALYTICS PROJECTS  /  PYTHON</text>
+</svg>
