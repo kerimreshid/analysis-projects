@@ -66,3 +66,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Insight:
+# This code snippet simulates a transaction fraud detection scenario using a simple rule-based approach. It generates synthetic transaction data, evaluates a risk rule based on transaction amount and channel, and calculates performance metrics such as true positives, false positives, and fraud rates by channel. The results are saved to a CSV file and visualized in a dashboard. The code is structured to provide insights into the effectiveness of the rule in identifying fraudulent transactions.
